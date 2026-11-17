@@ -40,7 +40,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 # Run the project
-python housing_fedi.py
+python california_housing.py
 ```
 
 The first run may need an internet connection to download the dataset through scikit-learn.
